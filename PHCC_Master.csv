@@ -1,0 +1,41 @@
+Facility_ID,Facility_Name,Governorate,District,Facility_Type,Catchment_Population,Required_Staff,Baseline_Daily_Consultation_Capacity
+PHCC001,Ain al-Arab PHCC 01,Aleppo,Ain al-Arab,Standard PHCC,45117,19,1499.2
+PHCC005,Ain al-Arab PHCC 05,Aleppo,Ain al-Arab,Small PHCC,13119,8,230.1
+PHCC018,Ain al-Arab PHCC 18,Aleppo,Ain al-Arab,Standard PHCC,21417,19,586.1
+PHCC031,Ain al-Arab PHCC 31,Aleppo,Ain al-Arab,Large PHCC,19440,18,821.8
+PHCC035,Ain al-Arab PHCC 35,Aleppo,Ain al-Arab,Standard PHCC,17628,15,406.6
+PHCC016,Jarabulus PHCC 16,Aleppo,Jarabulus,Standard PHCC,13238,13,358.5
+PHCC028,Kobani PHCC 28,Aleppo,Kobani,Large PHCC,15665,26,559.2
+PHCC012,Manbij PHCC 12,Aleppo,Manbij,Large PHCC,16299,27,611.3
+PHCC033,Manbij PHCC 33,Aleppo,Manbij,Standard PHCC,12351,15,366.9
+PHCC039,Manbij PHCC 39,Aleppo,Manbij,Standard PHCC,6000,19,149.8
+PHCC002,Amuda PHCC 02,Hasakeh,Amuda,Large PHCC,21562,28,886.1
+PHCC006,Amuda PHCC 06,Hasakeh,Amuda,Standard PHCC,9734,16,317.1
+PHCC022,Amuda PHCC 22,Hasakeh,Amuda,Standard PHCC,15340,13,477.1
+PHCC023,Amuda PHCC 23,Hasakeh,Amuda,Large PHCC,22539,26,836
+PHCC034,Amuda PHCC 34,Hasakeh,Amuda,Small PHCC,13625,8,274.6
+PHCC032,Hasakeh City PHCC 32,Hasakeh,Hasakeh City,Standard PHCC,30041,18,957.1
+PHCC010,Qamishli PHCC 10,Hasakeh,Qamishli,Standard PHCC,13210,17,349.9
+PHCC019,Qamishli PHCC 19,Hasakeh,Qamishli,Standard PHCC,22049,12,748.2
+PHCC021,Qamishli PHCC 21,Hasakeh,Qamishli,Large PHCC,20848,18,772.5
+PHCC038,Qamishli PHCC 38,Hasakeh,Qamishli,Small PHCC,5430,12,104
+PHCC004,Tell Tamer PHCC 04,Hasakeh,Tell Tamer,Large PHCC,18584,25,744.1
+PHCC017,Tell Tamer PHCC 17,Hasakeh,Tell Tamer,Standard PHCC,17807,12,516.9
+PHCC009,Al-Thawrah PHCC 09,Raqqa,Al-Thawrah,Small PHCC,10517,12,222.8
+PHCC015,Al-Thawrah PHCC 15,Raqqa,Al-Thawrah,Standard PHCC,15588,14,398.1
+PHCC024,Al-Thawrah PHCC 24,Raqqa,Al-Thawrah,Standard PHCC,16849,17,564.7
+PHCC040,Al-Thawrah PHCC 40,Raqqa,Al-Thawrah,Standard PHCC,25117,15,799.4
+PHCC003,Ayn Issa PHCC 03,Raqqa,Ayn Issa,Standard PHCC,20799,15,460.7
+PHCC011,Ayn Issa PHCC 11,Raqqa,Ayn Issa,Standard PHCC,14518,18,427
+PHCC027,Ayn Issa PHCC 27,Raqqa,Ayn Issa,Standard PHCC,41574,16,1317.6
+PHCC007,Raqqa City PHCC 07,Raqqa,Raqqa City,Standard PHCC,21823,20,518.5
+PHCC013,Raqqa City PHCC 13,Raqqa,Raqqa City,Standard PHCC,7214,14,226.5
+PHCC026,Raqqa City PHCC 26,Raqqa,Raqqa City,Large PHCC,9352,22,287.7
+PHCC029,Raqqa City PHCC 29,Raqqa,Raqqa City,Standard PHCC,24530,19,725.7
+PHCC008,Tell Abyad PHCC 08,Raqqa,Tell Abyad,Standard PHCC,9931,14,283.3
+PHCC014,Tell Abyad PHCC 14,Raqqa,Tell Abyad,Large PHCC,10752,22,412.6
+PHCC020,Tell Abyad PHCC 20,Raqqa,Tell Abyad,Standard PHCC,11716,14,299
+PHCC025,Tell Abyad PHCC 25,Raqqa,Tell Abyad,Standard PHCC,32505,14,917.2
+PHCC030,Tell Abyad PHCC 30,Raqqa,Tell Abyad,Standard PHCC,16935,12,490.9
+PHCC036,Tell Abyad PHCC 36,Raqqa,Tell Abyad,Large PHCC,30341,22,933.3
+PHCC037,Tell Abyad PHCC 37,Raqqa,Tell Abyad,Standard PHCC,25335,12,753.3
